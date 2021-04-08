@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "21842985085",
+    "firebase_url": "https://investigation-auxiliary-default-rtdb.firebaseio.com",
+    "project_id": "investigation-auxiliary",
+    "storage_bucket": "investigation-auxiliary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21842985085:android:b3446a46bda4b5c1597114",
+        "android_client_info": {
+          "package_name": "com.example.investigationauxiliary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21842985085-tmk1qn2b2pe0fa9f53b0pcft18bvtsf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoYGKQtnsTcl0k9DLUkHvTNo8fwx6SCQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21842985085-tmk1qn2b2pe0fa9f53b0pcft18bvtsf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
